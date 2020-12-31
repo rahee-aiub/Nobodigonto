@@ -72,6 +72,10 @@ namespace TestCoreApp.Controllers
         {
             return View();
         }
+        public IActionResult Single()
+        {
+            return View();
+        }
         public IActionResult AboutUs()
         {
             return View();
